@@ -1,2 +1,0 @@
-lk/ijse/dep/web/library/util/JPAUtilTest.java
- lk.ijse.dep.web.library.util.JPAUtilTest
